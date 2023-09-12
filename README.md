@@ -4,14 +4,14 @@
 Assessment in react native app Android and iOS
 
 # Run Android App
-1-Install node modules yarn install <br/>
+1-Install node modules =>yarn install <br/>
 2-Sync the android gradle files <br/>
-3-Run command npx react-native run-android <br/>
+3-Run command => npx react-native run-android <br/>
 
 # Run iOS App
-1-Install node modules yarn install <br/>
-2-Install pod files pod install <br/>
-3-Run command npx react-native run-ios <br/>
+1-Install node modules => yarn install <br/>
+2-Install pod files => pod install <br/>
+3-Run command => npx react-native run-ios <br/>
 
 # Screenshots
 
