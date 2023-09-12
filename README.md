@@ -3,6 +3,18 @@
 
 Assessment in react native app Android and iOS
 
+# Kown Parameters
+1- I try to spetrat ethe styles and from inline but some maybe some are left 
+2- I used the graph library to save time but we can make our custom graph as per design
+
+# Important Notes
+
+1- I used the networking library and used my own wrapper to call the Rest APis 
+2- I used the one video data name Barbie in dash and detail screen. we can use all the array for all cards
+3- We can also create a carosul of video card
+4-
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -52,6 +64,12 @@ This is one way to run your app — you can also run it directly from within And
 
 You've successfully run the App. :partying_face:
 
+# Demo
+
+Demo Video is avilable on below link
+
+https://drive.google.com/file/d/1tx-5hklp877jVr2xLdDXqQV7rDdiJnrh/view?usp=drive_link
+
 # Screenshots
 
 # Android
@@ -77,6 +95,7 @@ You've successfully run the App. :partying_face:
 <img src="https://github.com/almastabssam/DashboardDesignAssessment/assets/71845533/387fd7b0-70fd-4256-86b5-e0609adfd0d6" width=50% height=50%>
 <img src="https://github.com/almastabssam/DashboardDesignAssessment/assets/71845533/54c67817-7c18-490f-b379-e6f167928e04" width=50% height=50%>
 <img src="https://github.com/almastabssam/DashboardDesignAssessment/assets/71845533/0244c4ea-1c7c-43bb-acfe-f5fca43ea0ea" width=50% height=50%>
+
 
 
 
