@@ -1,9 +1,10 @@
 # OSX
 #
 .DS_Store
-
+/vendor
 # Xcode
 #
+ios/Pods
 build/
 *.pbxuser
 !default.pbxuser
@@ -56,3 +57,4 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+*.lock
