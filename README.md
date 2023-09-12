@@ -4,15 +4,22 @@
 Assessment in react native app Android and iOS
 
 # Kown Parameters
-1- I try to spetrat ethe styles and from inline but some maybe some are left 
+1- I try to sperate the styles and from inline but some maybe some are left.
+
 2- I used the graph library to save time but we can make our custom graph as per design
 
 # Important Notes
 
 1- I used the networking library and used my own wrapper to call the Rest APis 
+
 2- I used the one video data name Barbie in dash and detail screen. we can use all the array for all cards
+
 3- We can also create a carosul of video card
-4-
+
+4- I create the Common compoents 
+
+5- I used the common compoents in different screens
+
 
 
 # Getting Started
